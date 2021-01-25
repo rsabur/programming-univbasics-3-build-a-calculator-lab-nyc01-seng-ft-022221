@@ -11,17 +11,17 @@ subtraction(3,4)
 def division(num1, num2)
   num2 / num1
 end
-division
+division(3,4)
 
 def multiplication(num1, num2)
   num1 * num2
 end
-multiplication
+multiplication(3,4)
 
 def modulo(num1, num2)
   num2 % num1
 end
-modulo
+modulo(3,4)
 
 def square_root(num)
   Math.sqrt(num)
