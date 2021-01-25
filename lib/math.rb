@@ -1,5 +1,6 @@
 num1 = 3
 num2 = 4
+num = 9
 
 def addition(num1, num2)
   num1 + num2
