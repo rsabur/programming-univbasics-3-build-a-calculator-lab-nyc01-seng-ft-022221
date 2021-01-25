@@ -11,7 +11,7 @@ subtraction(3,4)
 def division(num1, num2)
   num2 / num1
 end
-division(3,3)
+division(3.0,4)
 
 def multiplication(num1, num2)
   num1 * num2
