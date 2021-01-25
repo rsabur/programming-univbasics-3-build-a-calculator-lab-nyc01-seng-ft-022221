@@ -22,9 +22,11 @@ end
 multiplication
 
 def modulo(num1, num2)
-
+  num2 % num1
 end
+modulo
 
 def square_root(num)
-
+  Math.sqrt(num)
 end
+square_root
